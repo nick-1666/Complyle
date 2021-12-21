@@ -1,5 +1,5 @@
 # Complyle
-A stupid cli for downloading the (Compliant texture pack)[https://compliantpack.net] for either Java or Bedrock with support for the different published branches (1.12.2 - 1.18+)
+A stupid cli for downloading the [Compliant texture pack](https://compliantpack.net) for either Java or Bedrock with support for the different published branches (1.12.2 - 1.18+)
 
 ## Installation
 head to releases and grab the latest .exe if your on windows else cry because i dont know how to compile for linux and mac.
